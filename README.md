@@ -1,1 +1,2 @@
 # 20250815githubstudy
+マキさんにGitHubを教えてもらってます。
